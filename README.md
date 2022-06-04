@@ -1,2 +1,2 @@
-# odin-recipes
-Basic html website with recipes for practice
+# Recipes website
+Basic html website with recipes for practice with git.
